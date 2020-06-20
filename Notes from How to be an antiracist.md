@@ -21,7 +21,7 @@ Kendi, Ibram X. How to Be an Antiracist (p. 230). Random House Publishing Group.
 [T]he steps we can all take to eliminate racial inequity in our spaces. 
 
 - Admit racial inequity is a problem of bad policy, not bad people. 
-- Identify racial inequity in all its intersections and. 
+- Identify racial inequity in all its intersections and manifestations.
 - Investigate and uncover the racist policies causing racial inequity. 
 - Invent or find antiracist policy that can eliminate racial inequity. 
 - Figure out who or what group has the power to institute antiracist policy. 
