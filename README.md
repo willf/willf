@@ -7,6 +7,6 @@
 
 
 📖 Have read: 
--  [What to the Slave is the Fourth of July?](https://en.wikisource.org/wiki/What_to_the_Slave_is_the_Fourth_of_July%3F)
+-  [What to the Slave is the Fourth of July?](https://en.wikisource.org/wiki/What_to_the_Slave_is_the_Fourth_of_July%3F) by Frederick Douglass
 - [How to be an anti-racist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1) by Ibram X. Kendi. [My Notes](https://github.com/willf/willf/blob/master/Notes%20from%20How%20to%20be%20an%20antiracist.md).
 - [The Dawn of Detroit: A Chronicle of Slavery and Freedom in the City of the Straits](https://bookshop.org/books/the-dawn-of-detroit-a-chronicle-of-slavery-and-freedom-in-the-city-of-the-straits/9781620974810) by Tiya Miles. [Article that led me to this](https://www.deadlinedetroit.com/articles/1686/slavery_is_detroit_s_big_bad_secret_why_don_t_we_know_anything_about_it)
