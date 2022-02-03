@@ -5,7 +5,7 @@
 📖 Currently reading: [Reading While Black](https://www.ivpress.com/reading-while-black): African American Biblical Interpretation as an Exercise in Hope by Esau McCaulley
 
 📖 Have read: 
-- [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/): What Racism costs everyone and how we can prosper together, by Heather McGhee. [My notes]()
+- [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/): What Racism costs everyone and how we can prosper together, by Heather McGhee. [My notes](https://github.com/willf/willf/blob/main/notes-on-the-sum-of-us.md)
 - [The Dead Are Arising: Life of Malcolm X](https://wwnorton.com/books/9781631491665) on recommendation of [@charlescearl](https://github.com/charlescearl)
 - [Caste: The Origins of Our Discontents](https://www.nytimes.com/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html) by Isabel Wilkerson
 - [Sojourner Truth: A Life, A Symbol](https://wwnorton.com/books/9780393317084) by Nell Irvning Painter
