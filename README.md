@@ -2,9 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Peaceful protestor in Kalamazoo, June, 2020" width=200><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Black" width=200><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Lives" width=200><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Matter" width=200>
 
-📖 Currently reading: [Reading While Black](https://www.ivpress.com/reading-while-black): African American Biblical Interpretation as an Exercise in Hope by Esau McCaulley
+📖 Currently reading:
 
-📖 Have read: 
+Suggestions?
+
+📖 Have read:
+
+- [Reading While Black](https://www.ivpress.com/reading-while-black): African American Biblical Interpretation as an Exercise in Hope by Esau McCaulley [My notes](https://github.com/willf/willf/blob/main/notes-on-reading-while-black.md)
 - [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/): What Racism costs everyone and how we can prosper together, by Heather McGhee. [My notes](https://github.com/willf/willf/blob/main/notes-on-the-sum-of-us.md)
 - [The Dead Are Arising: Life of Malcolm X](https://wwnorton.com/books/9781631491665) on recommendation of [@charlescearl](https://github.com/charlescearl)
 - [Caste: The Origins of Our Discontents](https://www.nytimes.com/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html) by Isabel Wilkerson
