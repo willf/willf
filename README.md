@@ -1,20 +1,15 @@
-# black lives matter
+# Experiments with Deep Text
 
-<img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Peaceful protestor in Kalamazoo, June, 2020" width=200><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Black" width=200><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Lives" width=200><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Matter" width=200>
+I've been trying out deep text techniques for a while now, and I'll be tracking these on a blog on [entish.org](https://entish.org) in the [deeptext](https://entish.org/deeptext) category.
 
-📖 Currently reading:
+# November Generate A Novel Month
 
-Suggestions?
+Check out my 2022 [November Generate A Novel Month](https://github.com/willf/nanogenmo-2022) project: Translating older English into modern English with OpenAPI.
 
-📖 Have read:
+# Joyfully
 
-- [Reading While Black](https://www.ivpress.com/reading-while-black): African American Biblical Interpretation as an Exercise in Hope by Esau McCaulley [My notes](https://github.com/willf/willf/blob/main/notes-on-reading-while-black.md)
-- [The Sum of Us](https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/): What Racism costs everyone and how we can prosper together, by Heather McGhee. [My notes](https://github.com/willf/willf/blob/main/notes-on-the-sum-of-us.md)
-- [The Dead Are Arising: Life of Malcolm X](https://wwnorton.com/books/9781631491665) on recommendation of [@charlescearl](https://github.com/charlescearl)
-- [Caste: The Origins of Our Discontents](https://www.nytimes.com/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html) by Isabel Wilkerson
-- [Sojourner Truth: A Life, A Symbol](https://wwnorton.com/books/9780393317084) by Nell Irvning Painter
-- [What to the Slave is the Fourth of July?](https://en.wikisource.org/wiki/What_to_the_Slave_is_the_Fourth_of_July%3F) by Frederick Douglass
-- [How to be an anti-racist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1) by Ibram X. Kendi. [My Notes](https://github.com/willf/willf/blob/master/Notes%20from%20How%20to%20be%20an%20antiracist.md).
-- [The Dawn of Detroit: A Chronicle of Slavery and Freedom in the City of the Straits](https://bookshop.org/books/the-dawn-of-detroit-a-chronicle-of-slavery-and-freedom-in-the-city-of-the-straits/9781620974810) by Tiya Miles. [Article that led me to this](https://www.deadlinedetroit.com/articles/1686/slavery_is_detroit_s_big_bad_secret_why_don_t_we_know_anything_about_it)
+I've been working on a project called [Joyfully](https://github.com/willf/joyfully). It's a template for creating a Python code repository using Poetry, Pytest, and Black. It's a work in progress, but I'm using it for my own new projects.
 
-📖 Currently wish I were reading: [Jesus and the Disinherited](https://archive.org/details/in.ernet.dli.2015.260684) by Howard Thurman. Sigh, this is a great book, but for some reason, I'm having a block.
+# black lives (still) matter
+
+<img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Peaceful protestor in Kalamazoo, June, 2020" width=100><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Black" width=100><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Lives" width=100><img src="https://user-images.githubusercontent.com/37049/84572418-cf565600-ad67-11ea-91db-fab17b58b9d6.png" alt="Matter" width=100>
