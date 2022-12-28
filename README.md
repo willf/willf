@@ -1,3 +1,7 @@
+# Chef
+
+_Chef_ was an experimental case-based planning project developed by Kris Hammond. It used the domain of cooking as a way to explore the use of case-based reasoning in planning. How does [ChatGPT do](https://www.entish.org/deeptext/posts/chef/) in this domain? Will it make the recipe with poisonous mushrooms???
+
 # Experiments with Deep Text
 
 I've been trying out deep text techniques for a while now, and I'll be tracking these on a blog on [entish.org](https://entish.org) in the [deeptext](https://entish.org/deeptext) category.
