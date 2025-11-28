@@ -2,7 +2,6 @@
 
 Words and Numbers
 
-- Data Scientist, Environmental Data and Governance Initiative (EDGI)
 - Adjunct Professor, Computer Science, Western Michigan University.
 - Advisor at Large, Wordnik Society.
 
